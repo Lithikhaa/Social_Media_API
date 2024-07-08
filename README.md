@@ -1,4 +1,4 @@
 # Pyexpo-project
-Uploading files/video in socialmedia.
-using a pyhon programing language.
+Uploading files/videos on social media.
+using a python programming language.
 This is an automation project!
